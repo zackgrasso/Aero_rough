@@ -1,0 +1,129 @@
+h2 {
+  padding: 7% 15%;
+}
+
+img {
+  width: 100%;
+}
+
+#Graphs {
+  padding: 25px;
+}
+
+.Statement {
+  text-align: center;
+  padding: 50px;
+}
+
+.research {
+  text-align: center;
+  padding: 50px;
+}
+
+a:hover {
+  color: blue;
+}
+
+.MoffittOutcomes {
+  align-items: center;
+}
+
+.row {
+  align-content: center;
+}
+
+.btn {
+  background: #EAEAEA;
+  background-image: -webkit-linear-gradient(top, #EAEAEA, #C8C6C6);
+  background-image: -moz-linear-gradient(top, #EAEAEA, #C8C6C6);
+  background-image: -ms-linear-gradient(top, #EAEAEA, #C8C6C6);
+  background-image: -o-linear-gradient(top, #EAEAEA, #C8C6C6);
+  background-image: linear-gradient(to bottom, #EAEAEA, #C8C6C6);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #E4FBFF;
+  background-image: -webkit-linear-gradient(top, #E4FBFF, #A2DBFA);
+  background-image: -moz-linear-gradient(top, #E4FBFF, #A2DBFA);
+  background-image: -ms-linear-gradient(top, #E4FBFF, #A2DBFA);
+  background-image: -o-linear-gradient(top, #E4FBFF, #A2DBFA);
+  background-image: linear-gradient(to bottom, #E4FBFF, #A2DBFA);
+  text-decoration: none;
+}
+
+.carousel-item {
+  height: 600px;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.container-fluid {}
+
+/* Footer Template Styling */
+.context-dark, .bg-gray-dark, .bg-primary {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.footer-classic a, .footer-classic a:focus, .footer-classic a:active {
+  color: #ffffff;
+}
+
+.nav-list li {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.nav-list li a:hover:before {
+  margin-left: 0;
+  opacity: 1;
+  visibility: visible;
+}
+
+ul, ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.social-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 23px;
+  font: 900 13px/1 "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.social-container .col {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+footer {
+  padding-top: 40px;
+}
+
+.description {
+  padding-left: 20px;
+}
+
+.disclaimer {
+  font-size: 10px;
+  margin-left: 75px;
+  padding-top: 50px;
+}
+
+.copyright {
+  font-size: 10px;
+  margin-left: 75px;
+  padding-bottom: 50px;
+}
